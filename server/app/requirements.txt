@@ -1,0 +1,8 @@
+fastapi==0.111.0
+uvicorn[standard]
+asyncpg
+tensorflow-cpu==2.16.1
+python-dotenv
+redis
+httpx
+pydantic
